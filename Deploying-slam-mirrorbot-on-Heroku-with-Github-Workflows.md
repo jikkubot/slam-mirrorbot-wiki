@@ -1,3 +1,5 @@
+![](https://telegra.ph/file/f15312b20df46f6d11680.png)
+
 ## Pre-requisites
 
 - [Token Pickle](https://github.com/SlamDevs/slam-mirrorbot#getting-google-oauth-api-credential-file)
