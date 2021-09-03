@@ -1,4 +1,4 @@
-![](https://telegra.ph/file/f15312b20df46f6d11680.png)
+![Heroku](https://telegra.ph/file/909aa0cfc6319ce5580aa.jpg)
 
 ## Pre-requisites
 
