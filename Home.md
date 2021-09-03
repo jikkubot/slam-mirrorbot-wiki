@@ -1,6 +1,6 @@
-![Heroku](https://telegra.ph/file/909aa0cfc6319ce5580aa.jpg)
-
 # Deploying slam mirrorbot on Heroku with Github Workflows
+
+![Heroku](https://telegra.ph/file/909aa0cfc6319ce5580aa.jpg)
 
 ## Pre-requisites
 
