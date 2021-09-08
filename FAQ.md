@@ -14,7 +14,7 @@
 - Add `BASE_URL_OF_BOT`, In readme already explained, still got idling? You can use http://cron-job.org or http://kaffeine.herokuapp.com to ping your app
 
 ### I have issue with Service Accounts
-- You forgot to upload accounts folder or you forgot to redeploy, check this by sending /shell ls, if accounts folder is there, then this is not the problem
+- You forgot to upload accounts folder or you forgot to redeploy, check this by sending `/shell ls`, if accounts folder is there, then this is not the problem
 - The service accs' names are not renamed to 0.json, 1.json, ... Check this by sending `/shell ls accounts`, if the names are randomized, get the sarename script, run it outside accounts folder, and upload accounts folder again, and redeploy
 - Service accs are not in your team drive you choose in gdrive folder id, check it by going to your team drive. Check if the service accs are there (within or without in google groups, both will work)
 - Gdrive folder id invalid
