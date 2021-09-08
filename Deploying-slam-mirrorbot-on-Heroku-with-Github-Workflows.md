@@ -6,7 +6,7 @@
 - [Github](github.com) accounts
 - [Heroku](heroku.com) accounts
   * Recommended to use 1 App in 1 Heroku account.
-	* Don't use bin/fake credits card, because your Heroku account will get banned.
+  * Don't use bin/fake credits card, because your Heroku account will get banned.
   * Heroku is free service, so don't expect too much.
 
 ## Deployment
@@ -19,10 +19,10 @@
 
 3. Add the below Required Variables one by one by clicking `New Repository Secret` everytime.
 
-	* `HEROKU_EMAIL` Heroku Account Email Id in which the above app will be deployed
-	* `HEROKU_API_KEY` Your Heroku API key, get it from https://dashboard.heroku.com/account
-	* `HEROKU_APP_NAME` Your Heroku app name, Name Must be unique
-	* `CONFIG_FILE_URL` Fill [This](https://raw.githubusercontent.com/Slam-Team/slam-mirrorbot/master/config_sample.env) in any text editor. Remove the `_____REMOVE_THIS_LINE_____=True` line and fill the variables. For details about config you can see [Here](https://github.com/SlamDevs/slam-mirrorbot#setting-up-config-file). Go to https://gist.github.com and paste your config data. Rename the file to `config.env` then create secret gist. Click on Raw, copy the link. This will be your `CONFIG_FILE_URL`. Refer to below images for clarity. 
+  * `HEROKU_EMAIL` Heroku Account Email Id in which the above app will be deployed
+  * `HEROKU_API_KEY` Your Heroku API key, get it from https://dashboard.heroku.com/account
+  * `HEROKU_APP_NAME` Your Heroku app name, Name Must be unique
+  * `CONFIG_FILE_URL` Fill [This](https://raw.githubusercontent.com/Slam-Team/slam-mirrorbot/master/config_sample.env) in any text editor. Remove the `_____REMOVE_THIS_LINE_____=True` line and fill the variables. For details about config you can see [Here](https://github.com/SlamDevs/slam-mirrorbot#setting-up-config-file). Go to https://gist.github.com and paste your config data. Rename the file to `config.env` then create secret gist. Click on Raw, copy the link. This will be your `CONFIG_FILE_URL`. Refer to below images for clarity. 
 
 	![steps 1 to 3](https://telegra.ph/file/1d8fec16516a87ba9d1ac.jpg)
 
@@ -30,10 +30,10 @@
 
 	![step 5](https://telegra.ph/file/416a550f7ded579b63272.jpg)
 
-	* **NOTE**: Remove commit id from raw link to be able to change variables without updating the `CONFIG_FILE_URL` in secrets. should be in this form: https://gist.githubusercontent.com/username/gist-id/raw/config.env
-	* Before: https://gist.githubusercontent.com/anasty17/8cce4a4b4e7f4ea47e948b2d058e52ac/raw/19ba5ab5eb43016422193319f28bc3c7dfb60f25/config.env
-	* After: https://gist.githubusercontent.com/anasty17/8cce4a4b4e7f4ea47e948b2d058e52ac/raw/config.env
-	* You only need to restart your bot after editing `config.env` gist secret.
+    * **NOTE**: Remove commit id from raw link to be able to change variables without updating the `CONFIG_FILE_URL` in secrets. should be in this form: https://gist.githubusercontent.com/username/gist-id/raw/config.env
+    * Before: https://gist.githubusercontent.com/anasty17/8cce4a4b4e7f4ea47e948b2d058e52ac/raw/19ba5ab5eb43016422193319f28bc3c7dfb60f25/config.env
+    * After: https://gist.githubusercontent.com/anasty17/8cce4a4b4e7f4ea47e948b2d058e52ac/raw/config.env
+    * You only need to restart your bot after editing `config.env` gist secret.
 
 4. After adding all the above Required Variables go to Github Actions tab in your repo
 
