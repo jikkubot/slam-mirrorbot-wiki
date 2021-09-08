@@ -11,16 +11,13 @@
 
 ## Deployment
 
-### Step 1
-Star and Fork this repo then upload **token.pickle** to your forks, or you can upload your **token.pickle** to your Index and put your **token.pickle** link to `TOKEN_PICKLE_URL` (**NOTE**: If you don't upload **token.pickle** uploading will not work).
+1. Star and Fork this repo then upload **token.pickle** to your forks, or you can upload your **token.pickle** to your Index and put your **token.pickle** link to `TOKEN_PICKLE_URL` (**NOTE**: If you don't upload **token.pickle** uploading will not work).
 
-### Step 2
-Go to Repository `Settings` -> `Secrets`
+2. Go to Repository `Settings` -> `Secrets`
 
 	![secrets](https://telegra.ph/file/bb8cb0eced5caad68a41b.jpg)
 
-### Step 3
-Add the below Required Variables one by one by clicking `New Repository Secret` everytime.
+3. Add the below Required Variables one by one by clicking `New Repository Secret` everytime.
 - `HEROKU_EMAIL`: Heroku Account Email Id in which the above app will be deployed
 - `HEROKU_API_KEY`: Your Heroku API key, get it from https://dashboard.heroku.com/account
 - `HEROKU_APP_NAME`: Your Heroku app name, Name Must be unique
