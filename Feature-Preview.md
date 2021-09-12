@@ -7,5 +7,3 @@
 ![Status Pages for unlimited tasks](https://telegra.ph/file/a13bb61651ac1c66087d6.jpg)
 ## Search in multiple Drive folder/TD
 ![Search in multiple Drive folder/TD](https://telegra.ph/file/96e2966bc98a408d0fef4.jpg)
-## Torrent search
-![Torrent search](https://telegra.ph/file/5a97242b8be0868c6b407.jpg)
