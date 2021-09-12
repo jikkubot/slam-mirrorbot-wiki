@@ -3,8 +3,8 @@
 ## Pre-requisites
 
 - [Token Pickle](https://github.com/SlamDevs/slam-mirrorbot#getting-google-oauth-api-credential-file)
-- [Github](github.com) accounts
-- [Heroku](heroku.com) accounts
+- [Github](github.com) account
+- [Heroku](heroku.com) account
 	* Recommended to use 1 App in 1 Heroku account.
 	* Don't use bin/fake credits card, because your Heroku account will get banned.
 	* Heroku is free service, so don't expect too much.
