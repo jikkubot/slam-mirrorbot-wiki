@@ -1,8 +1,8 @@
 # By Slam Devs
 ### Mirror using qBittorrent
-![Mirror using qBittorrent](https://telegra.ph/file/c45f0450471c96ad5cd53.jpg)
+![Mirror using qBittorrent](https://telegra.ph/file/e160951e966c468e10698.jpg)
 ### Select files from Torrent before downloading using qBittorrent
-![Select files before downloading](https://telegra.ph/file/78dea2c82c8caf815f24f.jpg)
+![Select files before downloading](https://telegra.ph/file/f96b0e5ca4f908430a4c0.jpg)
 ### Counting files/folders from Google Drive link
 ![Counting files/folders from Google Drive link](https://telegra.ph/file/9fe43764ca33d3c7c3db6.jpg)
 ### Status Pages for unlimited tasks
