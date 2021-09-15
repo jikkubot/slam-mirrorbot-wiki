@@ -3,7 +3,7 @@
 ![Mirror using qBittorrent](https://telegra.ph/file/e160951e966c468e10698.jpg)
 ### Select files from Torrent before downloading using qBittorrent
 ![Select files before downloading](https://telegra.ph/file/f96b0e5ca4f908430a4c0.jpg)
-![Select files before downloading](https://telegra.ph/file/bb0964abbd4c9ce7bd08a.jpg)
+![Select files before downloading](https://telegra.ph/file/79e898dc4f7d26183b2ab.jpg)
 ### Counting files/folders from Google Drive link
 ![Counting files/folders from Google Drive link](https://telegra.ph/file/9fe43764ca33d3c7c3db6.jpg)
 ### Status Pages for unlimited tasks
