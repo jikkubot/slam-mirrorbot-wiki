@@ -1,9 +1,9 @@
 [![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
 # Welcome to the slam-mirrorbot wiki!
 - [Features](https://github.com/SlamDevs/slam-mirrorbot/wiki/Features)
-- [Deploying](https://github.com/SlamDevs/slam-mirrorbot/wiki/Deploying)
-- [Deploying slam-mirrorbot on Heroku with Github Workflows](https://github.com/SlamDevs/slam-mirrorbot/wiki/Deploying-slam-mirrorbot-on-Heroku-with-Github-Workflows)
+- [Deployment](https://github.com/SlamDevs/slam-mirrorbot/wiki/Deployment)
 - [Generate Database](https://github.com/SlamDevs/slam-mirrorbot/wiki/Generate-Database)
 - [Bot commands to be set in BotFather](https://github.com/SlamDevs/slam-mirrorbot/wiki/Bot-commands-to-be-set-in-BotFather)
+-[Using Service Accounts for uploading to avoid user rate limit](https://github.com/SlamDevs/slam-mirrorbot/wiki/Service-Account)
 -  [Youtube dl authentication using .netrc file](https://github.com/SlamDevs/slam-mirrorbot/wiki/Youtube-dl-authentication-using-.netrc-file)
 - [FAQ](https://github.com/SlamDevs/slam-mirrorbot/wiki/FAQ)
