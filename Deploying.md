@@ -27,7 +27,3 @@ sudo pacman -S docker python
 ```
 pip3 install -r requirements-cli.txt
 ```
-## Generate Database
-<details>
-    <summary><b>Click Here For More Details</b></summary>
-
