@@ -27,8 +27,10 @@ sudo pacman -S docker python
 ```
 pip3 install -r requirements-cli.txt
 ```
-
-
+## Setting up config file
+You can see [Here](https://github.com/SlamDevs/slam-mirrorbot/wiki/Setting-up-config-file)
+## Getting Google OAuth API credential file
+You can see [Here](https://github.com/SlamDevs/slam-mirrorbot/wiki/Getting-Google-OAuth-API-credential-file)
 ## Deploying On VPS
 
 **IMPORTANT NOTE**: You must set `SERVER_PORT` variable to `80` or any other port you want to use.
