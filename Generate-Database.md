@@ -1,10 +1,10 @@
 ## 1. Using ElephantSQL
 - Go to https://elephantsql.com and create account (skip this if you already have **ElephantSQL** account)
-- Hit `Create New Instance`
+- Hit **Create New Instance**
 - Follow the further instructions in the screen
-- Hit `Select Region`
-- Hit `Review`
-- Hit `Create instance`
+- Hit **Select Region**
+- Hit **Review**
+- Hit **Create instance**
 - Select your database name
 - Copy your database url, and fill to `DATABASE_URL` in config
 
