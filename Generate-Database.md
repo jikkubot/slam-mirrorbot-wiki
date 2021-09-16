@@ -17,4 +17,4 @@
 	* To attach a PostgreSQL database to the app you just created, you need to navigate to the **Resources** tab in the header of your newly created app's dahsboard. Then type **Heroku Postgres** into the **Add-ons** search field. When shown, select the suggested **Heroku Postgres**
 	* The next popup asks you to choose a pricing plan for the database. Select the **Hobby Dev - Free plan** and click **Provision**
 - Congratulations, you now created a free PostgreSQL database
-	* Go to settings your app and copy your database from `DATABASE_URL` your Heroku app, then paste your database to your config
+	* Go to settings your Heroku app and copy your database from `DATABASE_URL` in Heroku app, then paste your database to your config
