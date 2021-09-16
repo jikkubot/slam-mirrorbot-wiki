@@ -1,5 +1,7 @@
 [![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
 # Welcome to the slam-mirrorbot wiki!
+- [Features](https://github.com/SlamDevs/slam-mirrorbot/wiki/Features)
+- [Deploying](https://github.com/SlamDevs/slam-mirrorbot/wiki/Deploying)
 - [Deploying slam-mirrorbot on Heroku with Github Workflows](https://github.com/SlamDevs/slam-mirrorbot/wiki/Deploying-slam-mirrorbot-on-Heroku-with-Github-Workflows)
 - [Generate Database](https://github.com/SlamDevs/slam-mirrorbot/wiki/Generate-Database)
 - [Bot commands to be set in BotFather](https://github.com/SlamDevs/slam-mirrorbot/wiki/Bot-commands-to-be-set-in-BotFather)
