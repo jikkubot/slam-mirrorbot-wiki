@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 
-- [Token Pickle](https://github.com/SlamDevs/slam-mirrorbot#getting-google-oauth-api-credential-file)
+- [Token Pickle](https://github.com/SlamDevs/slam-mirrorbot/wiki/Deploying#getting-google-oauth-api-credential-file)
 - [Github](github.com) account
 - [Heroku](heroku.com) account
 	* Recommended to use 1 App in 1 Heroku account.
