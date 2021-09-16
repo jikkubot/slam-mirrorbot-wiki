@@ -4,6 +4,6 @@
 - [Deployment](https://github.com/SlamDevs/slam-mirrorbot/wiki/Deployment)
 - [Generate Database](https://github.com/SlamDevs/slam-mirrorbot/wiki/Generate-Database)
 - [Bot commands to be set in BotFather](https://github.com/SlamDevs/slam-mirrorbot/wiki/Bot-commands-to-be-set-in-BotFather)
--[Using Service Accounts for uploading to avoid user rate limit](https://github.com/SlamDevs/slam-mirrorbot/wiki/Service-Account)
+- [Using Service Accounts for uploading to avoid user rate limit](https://github.com/SlamDevs/slam-mirrorbot/wiki/Service-Account)
 -  [Youtube dl authentication using .netrc file](https://github.com/SlamDevs/slam-mirrorbot/wiki/Youtube-dl-authentication-using-.netrc-file)
 - [FAQ](https://github.com/SlamDevs/slam-mirrorbot/wiki/FAQ)
