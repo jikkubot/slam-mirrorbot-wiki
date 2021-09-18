@@ -1,4 +1,4 @@
-[![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
+[![Slam](https://telegra.ph/file/9c9b200b4a6d18aec899c.jpg)](https://youtu.be/Pk_TthHfLeE)
 # Welcome to the slam-mirrorbot wiki!
 ## Main
 - [Features](https://github.com/SlamDevs/slam-mirrorbot/wiki/Features)
