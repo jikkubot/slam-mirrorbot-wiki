@@ -52,3 +52,4 @@
 
 ## Credits
 - [`AkhileshNS`](https://github.com/AkhileshNS) for Github Workflow method to deploy Heroku app
+- [`SlamDevs`](https://github.com/SlamDevs) for slam-mirrorbot
