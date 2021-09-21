@@ -48,7 +48,7 @@
 7. **Done!** your bot will be deployed now.
 
 ## NOTE
-- Don't change/edit variables from Heroku if you want to change/edit do it in `config.env` from your gist.
+- Don't change/edit variables from Heroku if you want to change/edit do it in `config.env` from your gist, after it just restart your Heroku app.
 
 ## Credits
 - [`AkhileshNS`](https://github.com/AkhileshNS) for Github Workflow method to deploy Heroku app
