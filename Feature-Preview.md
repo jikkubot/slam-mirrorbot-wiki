@@ -1,4 +1,6 @@
 # By Slam Devs
+### Leech supported
+![Leech supported](https://telegra.ph/file/d59a2c814519ce193eb3c.jpg)
 ### Mirror using qBittorrent
 ![Mirror using qBittorrent](https://telegra.ph/file/e160951e966c468e10698.jpg)
 ### Select files from Torrent before downloading using qBittorrent
