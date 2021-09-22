@@ -1,11 +1,13 @@
 # By Slam Devs
-### Leech supported
-![Leech supported](https://telegra.ph/file/d59a2c814519ce193eb3c.jpg)
 ### Mirror using qBittorrent
 ![Mirror using qBittorrent](https://telegra.ph/file/e160951e966c468e10698.jpg)
 ### Select files from Torrent before downloading using qBittorrent
 ![Select files before downloading](https://telegra.ph/file/f96b0e5ca4f908430a4c0.jpg)
 ![Select files before downloading](https://telegra.ph/file/79e898dc4f7d26183b2ab.jpg)
+### Leech supported
+![Leech supported](https://telegra.ph/file/d59a2c814519ce193eb3c.jpg)
+### Thumbnail supported
+[https://telegra.ph/file/c18900f3ad8845c30ca63.jpg](Thumbnail supported)
 ### Counting files/folders from Google Drive link
 ![Counting files/folders from Google Drive link](https://telegra.ph/file/9fe43764ca33d3c7c3db6.jpg)
 ### Status Pages for unlimited tasks
