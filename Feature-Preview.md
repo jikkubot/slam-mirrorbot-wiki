@@ -5,7 +5,7 @@
 ![Select files before downloading](https://telegra.ph/file/f96b0e5ca4f908430a4c0.jpg)
 ![Select files before downloading](https://telegra.ph/file/79e898dc4f7d26183b2ab.jpg)
 ### Leech supported
-![Leech supported](https://telegra.ph/file/d59a2c814519ce193eb3c.jpg)
+![Leech supported](https://telegra.ph/file/b0644aadc7c734c0cc07a.jpg)
 ### Thumbnail supported
 ![Thumbnail supported](https://telegra.ph/file/c18900f3ad8845c30ca63.jpg)
 ### Counting files/folders from Google Drive link
