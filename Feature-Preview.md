@@ -7,7 +7,7 @@
 ### Leech supported
 ![Leech supported](https://telegra.ph/file/d59a2c814519ce193eb3c.jpg)
 ### Thumbnail supported
-[https://telegra.ph/file/c18900f3ad8845c30ca63.jpg](Thumbnail supported)
+![Thumbnail supported](https://telegra.ph/file/c18900f3ad8845c30ca63.jpg)
 ### Counting files/folders from Google Drive link
 ![Counting files/folders from Google Drive link](https://telegra.ph/file/9fe43764ca33d3c7c3db6.jpg)
 ### Status Pages for unlimited tasks
