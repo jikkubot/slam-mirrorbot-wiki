@@ -1,7 +1,7 @@
 - Go to [@BotFather](https://t.me/BotFather)
 - Choose My Bots
 - Edit Commands
-- Now Paste The Commands Provided Below:
+- Now paste the commands provided below:
 
 ```
 help - Get Detailed Help
