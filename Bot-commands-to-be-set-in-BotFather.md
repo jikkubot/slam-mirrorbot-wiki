@@ -1,3 +1,8 @@
+- Go to [@BotFather](https://t.me/BotFather)
+- Choose My Bots
+- Edit Commands
+- Now Paste The Commands Provided Below:
+
 ```
 help - Get Detailed Help
 mirror - Start Mirroring
